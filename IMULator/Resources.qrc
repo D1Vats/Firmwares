@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/M_Im_1.jpg</file>
+        <file>Styles/DarkTheme.css</file>
+        <file>Styles/LightTheme.css</file>
+        <file>Images/Serial_Monitor_Light.png</file>
+        <file>Images/Serial_Monitor_Dark.png</file>
+        <file>Images/Serial_Plotter_Dark.png</file>
+        <file>Images/Serial_Plotter_Light.png</file>
+        <file>Images/Simulator_Dark.png</file>
+        <file>Images/Simulator_Light.png</file>
+        <file>Images/Scan_Dark.png</file>
+        <file>Images/Scan_Light.png</file>
+        <file>Shaders/lightSourceFrag.glsl</file>
+        <file>Shaders/lightSourceVert.glsl</file>
+        <file>Shaders/objectFrag.glsl</file>
+        <file>Shaders/ObjectVert.glsl</file>
+        <file>Shaders/skyFshader.glsl</file>
+        <file>Shaders/skyVshader.glsl</file>
+        <file>Images/night_sky.jpg</file>
+    </qresource>
+</RCC>
