@@ -1,0 +1,69 @@
+{
+	"folders": [
+		{
+			"name": "sparkFun_9DoF_IMU",
+			"path": "..\\..\\sparkFun_9DoF_IMU"
+		},
+		{
+			"name": "DAC_Test",
+			"path": "..\\..\\..\\..\\..\\Documents\\PlatformIO\\Projects\\DAC_Test"
+		},
+		{
+			"name": "My_firstSTM",
+			"path": "..\\..\\..\\..\\..\\Documents\\PlatformIO\\Projects\\My_firstSTM"
+		},
+		{
+			"name": "Atmega_2560_test",
+			"path": "..\\..\\Atmega_2560_test"
+		},
+		{
+			"name": "I2C_Protocol",
+			"path": "..\\..\\I2C_Protocol"
+		},
+		{
+			"name": "RTC_librarry",
+			"path": "..\\..\\RTC_librarry"
+		},
+		{
+			"name": "RTC_Test",
+			"path": "..\\..\\RTC_Test"
+		},
+		{
+			"name": "DS3231",
+			"path": "..\\..\\DS3231"
+		},
+		{
+			"name": "CH376s_Test",
+			"path": "..\\..\\CH376s_Test"
+		},
+		{
+			"name": "IMU_Test",
+			"path": "..\\..\\IMU_Test"
+		},
+		{
+			"name": "IMU_Test Code",
+			"path": "..\\..\\IMU_Test Code"
+		},
+		{
+			"name": "MPU9250E",
+			"path": "..\\..\\MPU9250E"
+		},
+		{
+			"name": "Due_Test",
+			"path": "..\\..\\..\\..\\..\\Documents\\PlatformIO\\Projects\\Due_Test"
+		},
+		{
+			"name": "SPVE_Code",
+			"path": ".."
+		},
+		{
+			"name": "Stepper_Motor_Test_Code",
+			"path": "..\\..\\..\\..\\..\\Documents\\PlatformIO\\Projects\\Stepper_Motor_Test_Code"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"limits": "cpp"
+		}
+	}
+}
