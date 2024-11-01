@@ -1,0 +1,32 @@
+{
+	"BUILD_DIR" : "D:/Qt_Code/Serial_monitor/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Serial_monitor_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Qt_Code/Serial_monitor/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Qt_Code/Serial_monitor/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Qt_Code/Serial_monitor",
+	"CMAKE_SOURCE_DIR" : "D:/Qt_Code/Serial_monitor",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "D:/Qt_Code/Serial_monitor/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Serial_monitor_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/Qt_Code/Serial_monitor/Images/Scan_Light.png",
+		"D:/Qt_Code/Serial_monitor/Images/Serial_Monitor_Light.png",
+		"D:/Qt_Code/Serial_monitor/Images/Serial_Plotter_Dark.png",
+		"D:/Qt_Code/Serial_monitor/Images/Serial_Plotter_Light.png",
+		"D:/Qt_Code/Serial_monitor/Images/Scan_Dark.png",
+		"D:/Qt_Code/Serial_monitor/Images/Serial_Monitor_Dark.png",
+		"D:/Qt_Code/Serial_monitor/Styles/LightTheme.css",
+		"D:/Qt_Code/Serial_monitor/Styles/DarkTheme.css"
+	],
+	"LOCK_FILE" : "D:/Qt_Code/Serial_monitor/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/Serial_monitor_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "Resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.7.2/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/Qt_Code/Serial_monitor/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/Serial_monitor_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/Qt_Code/Serial_monitor/Resources.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

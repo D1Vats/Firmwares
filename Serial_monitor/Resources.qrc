@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/Scan_Dark.png</file>
+        <file>Images/Scan_Light.png</file>
+        <file>Images/Serial_Monitor_Dark.png</file>
+        <file>Images/Serial_Monitor_Light.png</file>
+        <file>Images/Serial_Plotter_Dark.png</file>
+        <file>Images/Serial_Plotter_Light.png</file>
+        <file>Styles/DarkTheme.css</file>
+        <file>Styles/LightTheme.css</file>
+    </qresource>
+</RCC>

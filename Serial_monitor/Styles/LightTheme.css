@@ -1,0 +1,102 @@
+QWidget
+{
+background-color:rgb(230, 230, 250);
+}
+QGroupBox
+{
+background-color:rgba(0, 139, 139, 50);
+color:rgb(10, 10, 40);
+border: 2px solid rgba(230, 230, 250, 0);
+border-radius: 20px;
+margin-top: 5ex;
+padding: 10px;
+}
+QGroupBox:title
+{
+subcontrol-origin: margin;
+subcontrol-position: top center;
+padding: 3px;
+background-color:rgb(230, 230, 250);
+border-radius: 5px;
+color:rgb(10, 10, 40);
+}
+
+QLabel
+{
+background-color:rgba(0, 0, 0, 0);
+color:rgb(10, 10, 40);
+}
+
+QComboBox
+{
+background-color:rgba(0, 139, 139, 50);
+height:30px;
+border-radius:5px;
+}
+
+QComboBox QAbstractItemView
+{
+background-color:rgb(230, 230, 250);
+color:rgb(10, 10, 40);
+selection-background-color: #0078d7;
+}
+
+QPushButton
+{
+background-color:rgba(0, 139, 139, 50);
+border:none;
+border-radius:5px;
+padding:5px;
+height:30px;
+width:90px;
+color:rgb(10, 10, 40);
+}
+
+#Monitor_Button
+{
+border-image:url(:/Images/Serial_Monitor_Light.png) 0 0 0 0 stretch stretch;
+}
+
+#Plotter_Button
+{
+border-image:url(:/Images/Serial_Plotter_Light.png) 0 0 0 0 stretch stretch;
+}
+
+#Modbus_Button
+{
+border-image:url(:/Images/Simulator_Light.png) 0 0 0 0 stretch stretch;
+}
+
+QLineEdit
+{
+background-color:rgba(0, 139, 139, 50);
+border:none;
+border-radius:5px;
+padding:5px;
+height:30px;
+color:rgb(10, 10, 40);
+}
+
+QPlainTextEdit
+{
+border: 2px solid rgb(10, 10, 40);
+border-radius:5px;
+color:rgb(10, 10, 40);
+}
+
+
+QPushButton:pressed
+{
+background-color:rgba(0, 139, 139, 0);
+}
+QCheckBox
+{
+color:rgb(10, 10,40);
+}
+
+QRadioButton
+{
+background-color:rgba(0, 139, 139, 0);
+color:rgb(10, 10, 40);
+}
+
